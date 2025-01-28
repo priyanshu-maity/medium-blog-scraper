@@ -145,24 +145,8 @@ process.start()
 - [x] Data validation pipeline
 - [x] Rate limiting and retry mechanisms
 - [x] Random user agent rotation
-- [ ] Proxy support
-- [ ] Export to multiple formats
-- [ ] Web interface
 
 See the [open issues](https://github.com/priyanshu-maity/medium-blog-scraper/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Add proxy support
-- [ ] Implement multiple export formats
-    - [ ] CSV
-    - [ ] XML
-    - [ ] MongoDB
-- [ ] Create web interface
-- [ ] Add configuration GUI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
