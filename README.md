@@ -21,10 +21,8 @@
   <p align="center">
     An advanced web scraper for Medium.com built with Scrapy and Playwright
     <br />
-    <a href="https://github.com/priyanshu-maity/medium-blog-scraper"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/priyanshu-maity/medium-blog-scraper">View Demo</a>
     ·
     <a href="https://github.com/priyanshu-maity/medium-blog-scraper/issues">Report Bug</a>
     ·
