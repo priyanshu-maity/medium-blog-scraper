@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Main Container -->
+  <rect width="200" height="200" fill="#f8f9fa"/>
+  
+  <!-- Abstract Scraper Symbol -->
+  <g transform="translate(40, 40)">
+    <!-- Main Shape -->
+    <path d="M60 20 L100 20 L120 40 L120 100 L20 100 L20 40 Z" 
+          fill="#5850ec" 
+          stroke="none"/>
+    
+    <!-- Data Lines -->
+    <rect x="40" y="45" width="60" height="5" fill="#ffffff"/>
+    <rect x="40" y="60" width="40" height="5" fill="#fffff
