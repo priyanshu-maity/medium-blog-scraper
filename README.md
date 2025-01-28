@@ -176,7 +176,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Priyanshu Maity - [@linkedin](https://www.linkedin.com/in/priyanshu-maity-34a92230a/) - priyanshu.maity2006@gmail.com
+Priyanshu Maity: [@linkedin](https://www.linkedin.com/in/priyanshu-maity-34a92230a/) | priyanshu.maity2006@gmail.com
 
 Project Link: [https://github.com/priyanshu-maity/medium-blog-scraper](https://github.com/priyanshu-maity/medium-blog-scraper)
 
