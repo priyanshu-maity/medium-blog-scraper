@@ -23,7 +23,6 @@
     <br />
     <br />
     <br />
-    ·
     <a href="https://github.com/priyanshu-maity/medium-blog-scraper/issues">Report Bug</a>
     ·
     <a href="https://github.com/priyanshu-maity/medium-blog-scraper/issues">Request Feature</a>
