@@ -59,8 +59,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The Medium Blog Scraper is a sophisticated web scraping solution designed to extract articles and their metadata from Medium.com. It combines the power of Scrapy's scraping framework with Playwright's browser automation capabilities to handle dynamic content and JavaScript-rendered pages effectively.
 
 Key Highlights:
