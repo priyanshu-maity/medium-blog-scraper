@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/yourusername/medium-blog-scraper">
+  <a href="https://github.com/priyanshu-maity/medium-blog-scraper">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     An advanced web scraper for Medium.com built with Scrapy and Playwright
     <br />
-    <a href="https://github.com/yourusername/medium-blog-scraper"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/priyanshu-maity/medium-blog-scraper"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/yourusername/medium-blog-scraper">View Demo</a>
+    <a href="https://github.com/priyanshu-maity/medium-blog-scraper">View Demo</a>
     ·
-    <a href="https://github.com/yourusername/medium-blog-scraper/issues">Report Bug</a>
+    <a href="https://github.com/priyanshu-maity/medium-blog-scraper/issues">Report Bug</a>
     ·
-    <a href="https://github.com/yourusername/medium-blog-scraper/issues">Request Feature</a>
+    <a href="https://github.com/priyanshu-maity/medium-blog-scraper/issues">Request Feature</a>
   </p>
 </div>
 
@@ -101,7 +101,7 @@ python -m pip install --upgrade pip
 1. Get a free API Key at [https://huggingface.co](https://huggingface.co)
 2. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/medium-blog-scraper.git
+   git clone https://github.com/priyanshu-maity/medium-blog-scraper.git
    ```
 3. Install Python packages
    ```sh
@@ -156,7 +156,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Export to multiple formats
 - [ ] Web interface
 
-See the [open issues](https://github.com/yourusername/medium-blog-scraper/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/priyanshu-maity/medium-blog-scraper/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,18 +218,18 @@ Project Link: [https://github.com/priyanshu-maity/medium-blog-scraper](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/yourusername/medium-blog-scraper.svg?style=for-the-badge
-[contributors-url]: https://github.com/yourusername/medium-blog-scraper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/yourusername/medium-blog-scraper.svg?style=for-the-badge
-[forks-url]: https://github.com/yourusername/medium-blog-scraper/network/members
-[stars-shield]: https://img.shields.io/github/stars/yourusername/medium-blog-scraper.svg?style=for-the-badge
-[stars-url]: https://github.com/yourusername/medium-blog-scraper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/yourusername/medium-blog-scraper.svg?style=for-the-badge
-[issues-url]: https://github.com/yourusername/medium-blog-scraper/issues
-[license-shield]: https://img.shields.io/github/license/yourusername/medium-blog-scraper.svg?style=for-the-badge
-[license-url]: https://github.com/yourusername/medium-blog-scraper/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/priyanshu-maity/medium-blog-scraper.svg?style=for-the-badge
+[contributors-url]: https://github.com/priyanshu-maity/medium-blog-scraper/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/priyanshu-maity/medium-blog-scraper.svg?style=for-the-badge
+[forks-url]: https://github.com/priyanshu-maity/medium-blog-scraper/network/members
+[stars-shield]: https://img.shields.io/github/stars/priyanshu-maity/medium-blog-scraper.svg?style=for-the-badge
+[stars-url]: https://github.com/priyanshu-maity/medium-blog-scraper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/priyanshu-maity/medium-blog-scraper.svg?style=for-the-badge
+[issues-url]: https://github.com/priyanshu-maity/medium-blog-scraper/issues
+[license-shield]: https://img.shields.io/github/license/priyanshu-maity/medium-blog-scraper.svg?style=for-the-badge
+[license-url]: https://github.com/priyanshu-maity/medium-blog-scraper/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yourusername
+[linkedin-url]: https://linkedin.com/in/priyanshu-maity
 [product-screenshot]: images/screenshot.png
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://python.org/
