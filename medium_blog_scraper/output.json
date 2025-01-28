@@ -1,0 +1,695 @@
+[
+{
+    "search_term": "Machine Learning",
+    "title": [
+        "Conquering the AWS Certified Machine Learning Engineer — Associate: My Roadmap",
+        "to Success"
+    ],
+    "subtitle": null,
+    "summary": [
+        "The AWS Certified Machine Learning Engineer — Associate exam is divided into",
+        "four main domains. The exam is geared toward professionals who not only",
+        "understand machine learning principles but also possess a  robust AWS skill set.",
+        "Anton R. Gordon shares how he approached this certification."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Anton R Gordon",
+    "publication": "AWS in Plain English",
+    "claps": 6000,
+    "comments": 12,
+    "publish_date": null,
+    "read_length": "4 min",
+    "link": "https://aws.plainenglish.io/conquering-the-aws-certified-machine-learning-engineer-associate-my-roadmap-to-success-a747d4594367"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": [
+        "Engineering the Future: Common Threads in Data, Software, and Artificial",
+        "Intelligence"
+    ],
+    "subtitle": [
+        "How recognizing cross-discipline commonalities not only enhances recruitment",
+        "strategies but also supports adaptable IT architectures."
+    ],
+    "summary": [
+        "Traditional software application engineering, data engineering and artificial",
+        "intelligence (AI/ML) form large silos today. While the different tasks were",
+        "assumed to be largely distinct, the reality is that they are not. This is a",
+        "problem that needs to be addressed."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Bernd Wessely",
+    "publication": "Towards Data Science",
+    "claps": 1000,
+    "comments": 27,
+    "publish_date": "2024-11-23",
+    "read_length": "7 min",
+    "link": "https://towardsdatascience.com/engineering-the-future-common-threads-in-data-software-and-artificial-intelligence-2aa46b262150"
+},
+{
+    "search_term": "Data Science",
+    "title": "Data Science All Algorithm Cheatsheet 2025",
+    "subtitle": "Stories, strategies, and secrets to choosing the perfect algorithm.",
+    "summary": [
+        "Every algorithm has its own strengths and weaknesses. The key is to know when",
+        "and how to use them. This is a guide to the best ways to use each algorithm.",
+        "It's also a guide on how to get the most out of your data. For more information",
+        "on the algorithm, visit the official website."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Ritesh Gupta",
+    "publication": "Artificial Intelligence in Plain English",
+    "claps": 701,
+    "comments": 14,
+    "publish_date": "2025-01-05",
+    "read_length": "6 min",
+    "link": "https://ai.plainenglish.io/data-science-all-algorithm-cheatsheet-2025-5765b35d4870"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "Why Artificial Intelligence Cannot Beat Human Writers",
+    "subtitle": null,
+    "summary": [
+        "The main difference between a human writer and AI is its creativity. Human",
+        "writer writes on the basis of their personal experience and emotions. They try",
+        "to include their unique voice and perspective in their work. Though AI can copy",
+        "human style and format but it is lack in creativity which can only be given by",
+        "human experience."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Rahul",
+    "publication": null,
+    "claps": 1700,
+    "comments": 26,
+    "publish_date": "2024-11-05",
+    "read_length": "5 min",
+    "link": "https://medium.com/@rahul.das960821/why-artificial-intelligence-cannot-beat-human-writers-32c67a314d6b"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Machine Learning Algorithms Cheat Sheet for Data Scientists 🧠🤖",
+    "subtitle": "Simplified Explanations, Real-World Examples, and Quick References",
+    "summary": [
+        "Machine learning is full of algorithms, and each one has its strengths,",
+        "weaknesses, and applications. It’s essential to know when and how to use them in",
+        "order to solve problems properly as a data scientist. This cheat sheet will take",
+        "you through the most popular machine learning algorithms."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Ritesh Gupta",
+    "publication": "Artificial Intelligence in Plain English",
+    "claps": 695,
+    "comments": 14,
+    "publish_date": "2024-12-09",
+    "read_length": "6 min",
+    "link": "https://ai.plainenglish.io/machine-learning-algorithms-cheat-sheet-for-data-scientists-a2c0fc409652"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "My Machine Learning Journey: Perfect Roadmap for Beginners",
+    "subtitle": null,
+    "summary": [
+        "My journey in ML has been anything but traditional. I started with a project-",
+        "based approach focusing on projects over theory. This “code-first, theory-later”",
+        "method helped me learn ML in a practical, hands-on way. I learn best out of",
+        "necessity. When faced with a challenge, I find resources, understand them, and",
+        "take action. This “learn as you go” approach keeps my journey practical and",
+        "focused on my career goals. All my internships so far have come from projects I",
+        "built, not just theoretical..."
+    ],
+    "tags": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Neural Networks",
+        "Roadmaps"
+    ],
+    "member_only": "No",
+    "author": "Ashu Jha",
+    "publication": null,
+    "claps": 2300,
+    "comments": 53,
+    "publish_date": "2024-10-27",
+    "read_length": "6 min",
+    "link": "https://medium.com/@ashujha44/my-machine-learning-journey-perfect-roadmap-for-beginners-78208c47fb92"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "How artificial intelligence is overcoming natural stupidity",
+    "subtitle": null,
+    "summary": [
+        "More than 50% of Americans claim to believe in at least one of the many",
+        "conspiracy theories out there. This is the backfire effect, which leads us to",
+        "continue believing in something despite the availability of new information that",
+        "firmly contradicts it. One of the best I’ve seen to explain this kind of",
+        "question is this long comic by The Oatmeal."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Enrique Dans",
+    "publication": "Enrique Dans",
+    "claps": 785,
+    "comments": 18,
+    "publish_date": "2024-09-14",
+    "read_length": "3 min",
+    "link": "https://medium.com/enrique-dans/how-artificial-intelligence-is-overcoming-natural-stupidity-cdff298c4764"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "Artificial Intelligence: Goldman Sachs says no",
+    "subtitle": null,
+    "summary": [
+        "The total market for Generative AI is estimated to be $1.5 billion over the next",
+        "ten years. It could potentially be used in global enterprise software,",
+        "healthcare and financial services, according to Goldman Sachs. But the hype is",
+        "fading and some are questioning the value of the technology."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Dave Coker",
+    "publication": "DataDrivenInvestor",
+    "claps": 1100,
+    "comments": 28,
+    "publish_date": "2024-07-03",
+    "read_length": "3 min",
+    "link": "https://medium.datadriveninvestor.com/artificial-intelligence-goldman-says-no-65dae6cd9353"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "5 Data Structures That Machine Learning Engineers and Data Scientists Must Know",
+    "subtitle": [
+        "A Comprehensive Guide to Efficiency and Scalability of Data in ML and Deep",
+        "Learning"
+    ],
+    "summary": [
+        "In machine learning (ML), the performance and scalability of your models often",
+        "depend on the underlying data structures you choose. Arrays, heaps, hash tables,",
+        "trees, and graphs empower models to run faster, consume less memory, and handle",
+        "more complex tasks."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Joseph Robinson, Ph.D.",
+    "publication": "Towards AI",
+    "claps": 1200,
+    "comments": 10,
+    "publish_date": "2024-09-04",
+    "read_length": "23 min",
+    "link": "https://pub.towardsai.net/data-structures-in-machine-learning-a-comprehensive-guide-to-efficiency-and-scalability-f7429919c9c5"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Effective Model Version Management in Machine Learning Projects",
+    "subtitle": null,
+    "summary": [
+        "In machine learning (ML) projects, one of the most critical components is",
+        "version management. Unlike traditional software development, managing an ML",
+        "project involves not only the source code but also data and models that evolve",
+        "over time. In this blog post, we will explore the best practices for managing ML",
+        "models and experiments effectively."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Salman Anwaar",
+    "publication": null,
+    "claps": 1000,
+    "comments": 2,
+    "publish_date": "2024-09-13",
+    "read_length": "4 min",
+    "link": "https://medium.com/@salmananwaar1127/effective-model-version-management-in-machine-learning-projects-69a305fa3c4c"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "The Fundamental Mathematics of Machine Learning",
+    "subtitle": "A Deep Dive into Vector Norms, Linear Algebra, Calculus",
+    "summary": [
+        " ·                        ‘                 ’  ’’ ‘‘’,’ ”‘,” “”,‘  ’. ’”. “‘.”",
+        "‘, ‘. ‘ ’, ‚’; ‘  ‘ –’: ‘:’-‘-“I’m going to go to bed.’ –”: “You’re going to",
+        "sleep.“:”): “I can’t sleep. You�"
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Joseph Robinson, Ph.D.",
+    "publication": "Towards AI",
+    "claps": 1600,
+    "comments": 13,
+    "publish_date": "2024-07-26",
+    "read_length": "24 min",
+    "link": "https://pub.towardsai.net/the-fundamental-mathematics-of-machine-learning-39c2418d19c6"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "How to Ace Machine Learning Interviews: My Personal Playbook",
+    "subtitle": "Resources that helped me prepare for ML interview rounds",
+    "summary": [
+        "Machine learning interviews can be a challenging journey, but with the right",
+        "resources and planning, you can navigate it confidently. This article won’t",
+        "cover general software engineering interview rounds like DSA coding or",
+        "specialized roles like Data Analyst. Always confirm with your recruiter if there",
+        "will be ML coding questions in any of the rounds."
+    ],
+    "tags": [
+        "Machine Learning",
+        "Interview"
+    ],
+    "member_only": "No",
+    "author": "Kartik Singhal",
+    "publication": null,
+    "claps": 1000,
+    "comments": 8,
+    "publish_date": "2024-07-31",
+    "read_length": "6 min",
+    "link": "https://medium.com/@kgk.singhal/how-to-ace-machine-learning-interviews-my-personal-playbook-a75794155157"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "ICML 2024 Top Papers : What’s New in Machine Learning ?",
+    "subtitle": null,
+    "summary": [
+        "One of this year’s resolutions is to share papers from the leading AI",
+        "conferences to learn about the latest updates. These occasions are typically",
+        "where trends and innovations in areas like ML and Computer Vision emerge.",
+        "Furthermore, summer is an ideal time for this, as many such events take place",
+        "during this period. For this week’s article, I propose to explore the papers",
+        "presented at ICML, the International Conference on Machine Learning, currently",
+        "taking place from July 21 to 27, 2024, in..."
+    ],
+    "tags": [
+        "AI",
+        "Paper",
+        "Icml",
+        "Machine Learning",
+        "Llm"
+    ],
+    "member_only": "No",
+    "author": "Djohra IBERRAKEN",
+    "publication": "Cubed",
+    "claps": 612,
+    "comments": 7,
+    "publish_date": "2024-07-31",
+    "read_length": "10 min",
+    "link": "https://blog.cubed.run/icml-2024-top-papers-whats-new-in-machine-learning-cca7f9a953e3"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Uplift Modeling: Advanced Customer Targeting with Causal Machine Learning",
+    "subtitle": null,
+    "summary": [
+        "Exploring the Concepts, Algorithms, and Code with CausalML TL; DR: In recent",
+        "years, algorithms combining causal inference and machine learning have been a",
+        "hot topic. In this article, I will introduce Uplift Modeling, a powerful",
+        "technique for advanced customer targeting. We’ll explore its objectives,",
+        "underlying concepts, and key algorithms, followed by a case study using",
+        "CausalML. If you prefer to dive straight into the sample code, please refer to",
+        "my . I’d be thrilled if you could leave a..."
+    ],
+    "tags": [
+        "Causal Inference",
+        "Uplift Modeling",
+        "Causal Machine Learning",
+        "Marketing",
+        "Machine Learning"
+    ],
+    "member_only": "No",
+    "author": "Hajime Takeda",
+    "publication": "AI Advances",
+    "claps": 435,
+    "comments": 12,
+    "publish_date": "2024-09-22",
+    "read_length": "9 min",
+    "link": "https://ai.gopubby.com/uplift-modeling-advanced-customer-targeting-with-causal-machine-learning-985497065e78"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "The New Face of Artificial Intelligence?",
+    "subtitle": "Researchers try putting living skin on a tiny robot, and it’s creepy AF",
+    "summary": [
+        "A team at the University of Tokyo has figured out how to anchor living skin to a",
+        "small robot face. The 3D facial mould is made from collagen and elastin. The",
+        "robot face smiled for the camera as it posed for a photo."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Jeff Hayward",
+    "publication": "Ai-Ai-OH",
+    "claps": 284,
+    "comments": 6,
+    "publish_date": "2024-06-28",
+    "read_length": "2 min",
+    "link": "https://medium.com/ai-ai-oh/the-new-face-of-artificial-intelligence-9c900d463cf9"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "Unlocking the Potential of Recursion Theory in Artificial Intelligence",
+    "subtitle": null,
+    "summary": [
+        "This essay explores the role of recursion theory in AI, highlighting its impact",
+        "on algorithm design, problem-solving, and system optimization. The results",
+        "showcase improved algorithmic performance and reliability, especially in safety-",
+        "critical applications. The conclusions emphasize that recursions theory is a",
+        "foundational tool in AI."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Everton Gomede, PhD",
+    "publication": "𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨",
+    "claps": 6,
+    "comments": 1,
+    "publish_date": "2024-06-03",
+    "read_length": "7 min",
+    "link": "https://medium.com/aimonks/unlocking-the-potential-of-recursion-theory-in-artificial-intelligence-06f1d2de0aa9"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "The Easiest Way To Stay Up to Date With Machine Learning.",
+    "subtitle": [
+        "Read 10x more relevant articles by building the most efficient system for",
+        "tracking and organizing machine learning & engineering articles."
+    ],
+    "summary": [
+        "Working in the data science industry is becoming increasingly challenging.",
+        "Everything is moving so fast, and we are expected to stay up to date with the",
+        "latest tech. In the generative AI space, tech that was created one year ago",
+        "seems outdated today. If you leave frameworks for six months, you will need to",
+        "get onboarded again."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Serop Baghdadlian",
+    "publication": "Towards AI",
+    "claps": 1200,
+    "comments": 6,
+    "publish_date": "2024-07-13",
+    "read_length": "6 min",
+    "link": "https://pub.towardsai.net/the-easiest-way-to-stay-up-to-date-with-machine-learning-f3b68774fd6c"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": [
+        "OpenAI Confirms the Arrival of GPT-5, Poised to Bring Huge Improvements to",
+        "Artificial Intelligence 🚀"
+    ],
+    "subtitle": null,
+    "summary": [
+        "A netizen posted a GPT5 countdown post on x, saying that it was a conclusion",
+        "drawn from clues from various platforms. The comment section has reached a",
+        "climax with all kinds of opinions coming out. The generative AI company, led by",
+        "Sam Altman, is on track to launch GPT-5 sometime in the middle of the year."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Choco",
+    "publication": null,
+    "claps": 540,
+    "comments": 15,
+    "publish_date": "2024-06-06",
+    "read_length": "3 min",
+    "link": "https://medium.com/@Choco23/openai-confirms-the-arrival-of-gpt-5-poised-to-bring-huge-improvements-to-artificial-intelligence-e3b858e79c2a"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Probability Theory for Data Science and Machine Learning Engineers",
+    "subtitle": "From Basic Set Theory to Bayesian Inference",
+    "summary": [
+        "Probability theory is at the core of statistical analysis and machine learning.",
+        "Mastering it is essential to understanding and developing robust models as a",
+        "data scientist. This blog will walk you through key concepts in probability",
+        "theory, from the basics of Set Theory to Advanced Bayesian inference."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Joseph Robinson, Ph.D.",
+    "publication": "Towards AI",
+    "claps": 1100,
+    "comments": 5,
+    "publish_date": "2024-08-14",
+    "read_length": "15 min",
+    "link": "https://pub.towardsai.net/probability-theory-for-data-science-and-machine-learning-engineers-0be974204c68"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "From Jupyter to Production: Deploying Machine Learning Models Like a Pro",
+    "subtitle": null,
+    "summary": [
+        "Data scientists often build and test models in environments like Jupyter",
+        "Notebook. Getting these models to production involves several additional steps.",
+        "In this guide, we’ll walk through the complete process of taking a machine",
+        "learning model from a J upyter notebook and deploying it into a live production",
+        "environment."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Ritesh Gupta",
+    "publication": "Artificial Intelligence in Plain English",
+    "claps": 706,
+    "comments": 8,
+    "publish_date": "2024-10-24",
+    "read_length": "5 min",
+    "link": "https://ai.plainenglish.io/from-jupyter-to-production-deploying-machine-learning-models-like-a-pro-592106792676"
+},
+{
+    "search_term": "Data Science",
+    "title": "GenAI is Reshaping Data Science Teams",
+    "subtitle": "Challenges, opportunities, and the evolving role of data scientists",
+    "summary": [
+        "Generative AI (GenAI) opens the door to faster development cycles, minimized",
+        "technical and maintenance efforts, and innovative use cases that before seemed",
+        "out of reach. At the same time, it brings new risks — like hallucinations, and",
+        "dependencies on third-party APIs. For Data Scientists and Machine Learning",
+        "teams, this evolution has a direct impact on their roles. A new type of AI",
+        "project has appeared, with part of the AI already implemented by external model",
+        "providers (OpenAI, Anthropic,..."
+    ],
+    "tags": [
+        "Data Science",
+        "Career Development",
+        "Genai",
+        "Machine Learning",
+        "Notes From Industry"
+    ],
+    "member_only": "No",
+    "author": "Anna Via",
+    "publication": "Towards Data Science",
+    "claps": 567,
+    "comments": 13,
+    "publish_date": "2024-11-29",
+    "read_length": "9 min",
+    "link": "https://towardsdatascience.com/genai-is-reshaping-data-science-teams-b4d5a419e0f6"
+},
+{
+    "search_term": "Data Science",
+    "title": "The Most Expensive Data Science Mistake I’ve Witnessed in My Career",
+    "subtitle": "Why true success in machine learning goes beyond optimizing a single metric",
+    "summary": [
+        "This was my first time witnessing a data science “mistake’ in a business",
+        "context. This was a very costly error from both a financial and operational",
+        "perspective. The downstream impact and reverberating effects it had across the",
+        "company. This issue impacted every team and we all worked tirelessly for months",
+        "after."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Claudia Ng",
+    "publication": "Towards Data Science",
+    "claps": 1300,
+    "comments": 28,
+    "publish_date": "2024-11-28",
+    "read_length": "6 min",
+    "link": "https://towardsdatascience.com/the-most-expensive-data-science-mistake-ive-witnessed-in-my-career-302d811a15da"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Don’t Be Afraid to Use Machine Learning for Simple Tasks",
+    "subtitle": "A common misconception across industries",
+    "summary": [
+        "Many professionals view machine learning as advanced technology that you deploy",
+        "when other approaches fail. In their mind, it’s a sophisticated tool reserved",
+        "for problems too complex for conventional methods. Sometimes, those comments are",
+        "valid, making machine learning the wrong technology. But more often, they stem",
+        "from a false…"
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Oscar Leo",
+    "publication": "Towards Data Science",
+    "claps": 716,
+    "comments": 10,
+    "publish_date": "2024-11-23",
+    "read_length": "6 min",
+    "link": "https://towardsdatascience.com/dont-be-afraid-to-use-machine-learning-for-simple-tasks-8488fc175253"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "The Hidden Cost of Modern Day Artificial Intelligence Boom",
+    "subtitle": null,
+    "summary": [
+        "The rapid evolution of AI technology contributes to electronic waste (e-waste)",
+        "and necessitates continuous resource extraction for hardware production. The",
+        "energy used for training AI models frequently comes from non-renewable sources,",
+        "contributing to greenhouse gas emissions. Despite the environmental challenges,",
+        "AI has the potential to contribute positively to sustainability."
+    ],
+    "tags": [
+        "Artificial Intelligence",
+        "Data",
+        "Technology",
+        "Sustainability",
+        "Environment"
+    ],
+    "member_only": "No",
+    "author": "Jiji Veronica Kim",
+    "publication": "Teach me in Plain Language",
+    "claps": 699,
+    "comments": 8,
+    "publish_date": "2024-09-21",
+    "read_length": "3 min",
+    "link": "https://medium.com/teach-me-in-plain-language/the-hidden-cost-of-modern-day-artificial-intelligence-boom-681a0685a582"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Machine Learning Basics I Look for in Data Scientist Interviews",
+    "subtitle": "Let’s build our breadth of science together.",
+    "summary": [
+        "I recently wrote a post about the mathematics that I look for in our data",
+        "scientist interviews. I decided to continue that discussion by going much deeper",
+        "into the machine learning knowledge that we expect our data scientists to have",
+        "in this post. If you are preparing for a data scientist interview or just plan",
+        "to refresh your memory of the related topics, I believe you will find this post",
+        "helpful."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Farzad Nobar",
+    "publication": "Towards Data Science",
+    "claps": 801,
+    "comments": 18,
+    "publish_date": "2024-12-04",
+    "read_length": "39 min",
+    "link": "https://towardsdatascience.com/machine-learning-basics-i-look-for-in-data-scientist-interviews-a6ff25be38c9"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": "How I outperformed the market by 130% because of artificial intelligence",
+    "subtitle": "Beating the market is super easy if you’re not trading $1 billion",
+    "summary": [
+        "Warren Buffet said something that shocked the finance community — outperforming",
+        "the S&P500 is easy. Because of the size of Berkshire Hathaway, Warren believes",
+        "he’s at a massive structural disadvantage. He claims that if he was trading at a",
+        "smaller scale, he could easily outperform the market."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Austin Starks",
+    "publication": "DataDrivenInvestor",
+    "claps": 1800,
+    "comments": 59,
+    "publish_date": "2024-10-01",
+    "read_length": "7 min",
+    "link": "https://medium.datadriveninvestor.com/how-i-outperformed-the-market-by-130-because-of-artificial-intelligence-7d7a459a0081"
+},
+{
+    "search_term": "Data Science",
+    "title": "Ten Predictions for Data Science and AI in 2025",
+    "subtitle": "On agents, open source models, safety, and more",
+    "summary": [
+        "At an AI conference at the close of the year, I was in the speakers’ lounge",
+        "finishing up my work when three loud AI executives entered just before the",
+        "penultimate panel for the day on “the future of AI”. After a quick glance in my",
+        "direction (likely to ensure I was a harmless NPC), one of them loudly proclaimed",
+        "“this must be my what…30th? 35th? conference this year.” After a pause he added,",
+        "“…and you know what, they are all starting to sound the same.” While musing",
+        "about installing guardrails..."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Jason Tamara Widjaja",
+    "publication": "Towards Data Science",
+    "claps": 1100,
+    "comments": 20,
+    "publish_date": "2024-12-30",
+    "read_length": "14 min",
+    "link": "https://towardsdatascience.com/ten-predictions-for-data-science-and-ai-in-2025-8d6fd29134b8"
+},
+{
+    "search_term": "Data Science",
+    "title": [
+        "How to Pick Between Data Science, Data Analytics, Data Engineering, ML",
+        "Engineering, and SW Engineering"
+    ],
+    "subtitle": "Make the right choice for YOU",
+    "summary": [
+        "If you're looking to break into tech or pivot into a new job, figuring out which",
+        "career path is right for you isn't easy. The day-to-day work and the type of",
+        "person who thrives in each role couldn't be more different."
+    ],
+    "tags": [],
+    "member_only": "Yes",
+    "author": "Marina Wyss - Gratitude Driven",
+    "publication": "Towards Data Science",
+    "claps": 800,
+    "comments": 21,
+    "publish_date": "2025-01-19",
+    "read_length": "17 min",
+    "link": "https://towardsdatascience.com/how-to-pick-between-data-science-data-analytics-data-engineering-ml-engineering-and-sw-055de18d05e3"
+},
+{
+    "search_term": "Artificial Intelligence",
+    "title": null,
+    "subtitle": null,
+    "summary": [
+        "Artificial intelligence (AI) is no longer a distant concept. It’s shaping how",
+        "industries operate and revolutionizing everything from ecommerce to data",
+        "management. But who is behind this disruption, and how do they plan to reshape",
+        "the role of AI in our lives? At Tech in Asia Jakarta, we’re giving you the",
+        "chance to meet our team — the minds behind the technology."
+    ],
+    "tags": [
+        "Crypto",
+        "Blockchain",
+        "AI",
+        "Web3",
+        "Airdrop"
+    ],
+    "member_only": "No",
+    "author": "ForU AI",
+    "publication": null,
+    "claps": 2200,
+    "comments": 431,
+    "publish_date": "2024-10-22",
+    "read_length": "4 min",
+    "link": "https://4uai.medium.com/in-todays-tech-driven-world-artificial-intelligence-ai-is-no-longer-a-distant-concept-it-s-da25209c47e4"
+},
+{
+    "search_term": "Machine Learning",
+    "title": "Machine Learning Operations (MLOps) For Beginners",
+    "subtitle": "End-to-end Project Implementation",
+    "summary": [
+        "Developing, deploying, and maintaining machine learning models in production can",
+        "be challenging and complex. This is where Machine Learning Operations (MLOps)",
+        "comes into play. MLOps is a set of practices that automate and simplify machine",
+        "learning (ML) workflows and deployments. In this article, I will be sharing some",
+        "basic MLOps practices and tools through an end-to-end project implementation",
+        "that will help you manage machine learning projects more efficiently, from",
+        "development to..."
+    ],
+    "tags": [
+        "Mlops",
+        "Docker",
+        "ML Engineering",
+        "DevOps",
+        "Fastapi"
+    ],
+    "member_only": "No",
+    "author": "Prasad Mahamulkar",
+    "publication": "Towards Data Science",
+    "claps": 2600,
+    "comments": 36,
+    "publish_date": "2024-08-29",
+    "read_length": "19 min",
+    "link": "https://towardsdatascience.com/machine-learning-operations-mlops-for-beginners-a5686bfe02b2"
+}
+]
