@@ -176,7 +176,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Priyanshu Maity: [@linkedin](https://www.linkedin.com/in/priyanshu-maity-34a92230a/) | priyanshu.maity2006@gmail.com
+*Priyanshu Maity:*
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.maity2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshumaity_official)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-maity-34a92230a/)
 
 Project Link: [https://github.com/priyanshu-maity/medium-blog-scraper](https://github.com/priyanshu-maity/medium-blog-scraper)
 
