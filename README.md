@@ -102,7 +102,7 @@ python -m pip install --upgrade pip
    ```sh
    pip install -r requirements.txt
    ```
-4. Enter your API key in `.env`
+4. Enter your API key
    ```sh
    HF_API_KEY='your_api_key'
    ```
